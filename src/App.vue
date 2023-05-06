@@ -4,10 +4,11 @@ import NameComp from "./components/NameComp.vue"
 </script>
 
 <template>
-  <div>
-    <NameComp/>
-    <h1>Ciao Federico</h1>
-  </div>
+  
+  <h1 class="text-primary">Ciao Federico</h1>
+  <font-awesome-icon icon="fa-solid fa-rocket" />
+  <NameComp/>
+  
 </template>
 
 <style lang="scss">

@@ -1,11 +1,11 @@
 <script>
-    
+
     export default{
 
         name: "NameComp",
         
         components: {
-            NameComp
+            
         },
 
         data(){
@@ -28,7 +28,7 @@
 
 <template>
     <div id="NameComp">
-
+        <h2>Titolo componente</h2>
     </div>
 </template>
 
